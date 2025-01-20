@@ -1,0 +1,92 @@
+#introduce{
+    background-image: url(/public/background.jpg);
+    background-size: cover;
+    height: 86vh;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+#intro, #intro2{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+} 
+
+#box{
+    margin-left: var(--large-padding);
+    display: flex;
+    flex-direction: column;
+}
+
+#intro_desc{
+    width: 50%;
+    margin-top: 10px;
+}
+
+#intro_desc p{
+    color: white;
+}
+
+#tourArea{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#tourList{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.list{
+    background-color: #F4F5F7;
+    text-align: center;
+    border-radius: 15px;
+}
+
+
+.image{
+    border-radius: 15px;
+    width: 300px;
+    height: 350px;
+}
+
+.shortDesc{
+    margin-bottom: 10px;
+}
+@media screen and (max-width:804px){
+    #tourList{
+        width: 90%;
+    }
+
+    .image{
+        width: 400px;
+        height: 450px;
+    }
+}
+
+
+@media screen and (max-width:584px){
+    #introduce{
+        justify-content: center;
+    }
+    #box{
+        align-items: center;
+        margin-left: 0
+    }
+    #intro, #intro2{
+        font-size: 40px;
+    }
+
+    #intro_desc{
+        width: 90%;
+    }
+
+    .image{
+        width: 340px;
+        height: 350px;
+    }
+}
