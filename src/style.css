@@ -87,9 +87,12 @@ h1{
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+
   overflow-y: auto;
   scrollbar-color: #B88E2F #f1f1f1;
-  height: 350px;
+  
+  height: 400px;
+  gap: 10px;
 }
 .intro_inside h1{
   font-size: 50px;
@@ -114,6 +117,15 @@ h1{
   font-weight: bold;
 }
 
+.priceBtn{
+  background-color: var(--secondary-color);
+  color: #F4F5F7;
+  border-radius: 10px;
+  padding: 8px;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
 @media screen and (max-width:950px){
   .intro1{
     flex-direction: column;
@@ -130,7 +142,7 @@ h1{
   }
   .p_intro_inside{
     align-items: center;
-    height: 460px;
+    height: 350px;
   }
 }
 
@@ -142,7 +154,7 @@ h1{
 
 @media screen and (max-width:513px){
   .intro_inside h1{
-    font-size: 40px;
+    font-size: 35px;
   }
 }
 

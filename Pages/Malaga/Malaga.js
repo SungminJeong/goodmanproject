@@ -13,7 +13,7 @@ const Malaga = () => {
     const data = tourArea[2];
     document.querySelector('main').innerHTML = template();
     document.querySelector('.container').innerHTML = `
-        <div id="sevilla" class="inside-img">
+        <div id="malaga" class="inside-img">
             <p>Malaga</p>
         </div>
         <section class="intro-section">
