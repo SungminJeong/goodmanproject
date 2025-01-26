@@ -5,6 +5,7 @@ import Malaga from "../Pages/Malaga/Malaga";
 import Granada from "../Pages/Granada/Granada";
 import Madrid from "../Pages/Madrid/Madrid";
 import North from "../Pages/North/North";
+import Special from "../Pages/Special/Special";
 
 const routes = [
     {
@@ -34,6 +35,10 @@ const routes = [
 {
   path: "/north",
   page: North,
+},
+{
+  path: "/special",
+  page: Special,
 },
 ];
 

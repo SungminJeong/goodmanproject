@@ -7,7 +7,8 @@ const data = {
             {destination:"Malaga",href:"malaga"},
             {destination:"Granada",href:"granada"},
             {destination:"Madrid",href:"madrid"}, 
-            {destination:"North",href:"north"}
+            {destination:"North",href:"north"},
+            {destination:"Special",href:"special"}
         ],
         introduce1: "Book Your Dream",
         introduce2: "Dreams come true",
@@ -87,8 +88,8 @@ const data = {
                         이국적이고 고풍스러우며 아직도 살아 숨 쉬는 듯고스란히
                         남은 역사의 흔적을 느껴보세요!<br><br>`,
             tour3_desc2:"★★옵션<br>",
-            tour3_price1:"★Toledo & Segovia: 18 €",
-            tour3_price2:"★야경+타파스안내(저녁식사장소 안내): 20 €",
+            tour3_price1:"★톨레도+세고비아 단체: 87 €",
+            tour3_price2:"★톨레도+세고비아 2인 출발 : 200 €",
             ////////////////////////////////////////////////////////////////////////////////////////////////////
             tour4:"프라도+시내투어",
             tour4_img:"https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/06/24/TUqF/IliYGqlcXB.jpg",
@@ -109,6 +110,12 @@ const data = {
             img:"https://cdn.gamma.app/w3rw6z4iovtz56c/generated-images/qGu_mSCfYCywog3WIe2Pb.jpg",
             short_desc:"북부로 떠나볼까요?",
             path: "north"
+        },
+        {
+            destination:"Special",
+            img:"https://cdn.gamma.app/w3rw6z4iovtz56c/generated-images/qGu_mSCfYCywog3WIe2Pb.jpg",
+            short_desc:"북부로 떠나볼까요?",
+            path: "special"
         },
     ]
 };
