@@ -12,7 +12,12 @@ const data = {
         ],
         introduce1: "Book Your Dream",
         introduce2: "Dreams come true",
-        intro_desc:"Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a leo sit amet sem sagittis auctor nec a lorem. Proin non ipsum tempus, fringilla mi id, consequat erat. Sed varius tristique viverra. Proin dapibus euismod risus in mattis.",
+        intro_desc:`꿈같은 신혼여행, 스페인으로 떠나보세요!
+                    뜨거운 태양 아래 펼쳐진 지중해의 낭만, 역사와 문화가 살아 숨 쉬는 거리, 그리고 세계적으로 유명한 미식의 천국. 스페인은 모든 신혼부부의 꿈을 현실로 만들어 줄 완벽한 여행지입니다.
+                    이제, 둘만의 특별한 순간을 스페인에서 만들어 보세요.
+지금 바로 신혼여행 상담을 신청하시고, 평생 잊지 못할 로맨스를 시작하세요!
+
+스페인으로의 신혼여행, 그 특별한 여정을 함께 설계해드립니다.`,
 
     },
     tourArea:[
@@ -52,6 +57,7 @@ const data = {
             2. 마드리드 야경투어 <br>
             3. 프라도+시내투어 <br>
             4. 톨레도 세고비아투어 <br>
+            5. 왕궁
             `,
             tour1:"프라도미술관",
             tour1_img:"https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/06/24/N2Cd/5PELSQxK52.jpg",
@@ -88,7 +94,7 @@ const data = {
                         이국적이고 고풍스러우며 아직도 살아 숨 쉬는 듯고스란히
                         남은 역사의 흔적을 느껴보세요!<br><br>`,
             tour3_desc2:"★★옵션<br>",
-            tour3_price1:"★톨레도+세고비아 단체: 87 €",
+            tour3_price1:"★톨레도+세고비아 단체(5인모객기준): 87 €",
             tour3_price2:"★톨레도+세고비아 2인 출발 : 200 €",
             ////////////////////////////////////////////////////////////////////////////////////////////////////
             tour4:"프라도+시내투어",
@@ -113,7 +119,7 @@ const data = {
         },
         {
             destination:"Special",
-            img:"https://cdn.gamma.app/w3rw6z4iovtz56c/generated-images/qGu_mSCfYCywog3WIe2Pb.jpg",
+            img:"https://images.unsplash.com/photo-1631152282084-b8f1b380ccab?q=80&w=1973&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             short_desc:"북부로 떠나볼까요?",
             path: "special"
         },

@@ -25,6 +25,8 @@
 
 #intro_desc p{
     color: white;
+    font-weight: bold;
+    padding-top: 10px;
 }
 
 #tourArea{
@@ -45,6 +47,7 @@
     background-color: #F4F5F7;
     text-align: center;
     border-radius: 15px;
+    padding-bottom: 10px;
 }
 
 

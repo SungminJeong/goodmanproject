@@ -31,7 +31,7 @@ const Home = () => {
         <a href="/${item.path}">
             <img src="${item.img}" class="image">
             <p class="destination">${item.destination}</p>
-            <p class="shortDesc">${item.short_desc}</p>
+            
         </a>
         `;
         ul.appendChild(li);
