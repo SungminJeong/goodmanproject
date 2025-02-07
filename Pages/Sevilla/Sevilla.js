@@ -77,7 +77,7 @@ const Sevilla = () => {
                         <p class="priceBtn">라스 세타스 (음료1 + 공연): 34€</p>
                     </div>
                 </div>
-                <img src="https://images.unsplash.com/photo-1722461079337-1775b8f61137?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjQ3fHwlRUQlOTQlOEMlRUIlOUQlQkMlRUIlQTklQTklRUElQjMlQTB8ZW58MHx8MHx8fDA%3D" class="intro_img"/>
+                <img src="https://cdn.gamma.app/mwicoyhynnxyvr3/generated-images/hEBE_RBVZfh60kq71xz3Q.jpg" class="intro_img"/>
             </section>
 
             <section class="intro1">
@@ -93,7 +93,7 @@ const Sevilla = () => {
                         <p class="priceBtn">마차투어(최대 4인 탑승): 75€</p>
                     </div>
                 </div>
-                <img src="https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/07/16/CsKN/N4kja2ccvl.jpg" class="intro_img"/>
+                <img src="https://cdn.gamma.app/mwicoyhynnxyvr3/generated-images/CBmCZmHFYlAqd_gmTZX1C.jpg" class="intro_img"/>
             </section>
 
             <section class="intro1">

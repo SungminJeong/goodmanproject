@@ -24,13 +24,16 @@ const Special = () => {
                     <div class="p_intro_inside">
                         <p>국제공항 픽업 및 샌딩 서비스를 통해 편안하고 안전한 여행을 경험해보세요. 
                         유럽 VIP, 일반 차량으로 프라이빗 현지 기사 , 현지 코디네이터의 대응 및 한국인 직원과도 현지에서 캐어해드립니다.
+                        마드리드, 바르셀로나, 말라가, 그라나다, 세비야, 마요르까, 빌바오 
                         </p>
                         <p>★★옵션</p>
+                        <p>프리미엄 차량 신청시 10유로 추가</p>
                         <p class="priceBtn">공항 픽업 및 샌딩 (세단 일반 차량 기준): 75€</p>
                         <p class="priceBtn">공항 픽업 및 샌딩 (밴 일반 차량 기준): 95€</p>
                         <p class="priceBtn">공항 픽업 및 샌딩 야간 할증(세단 일반 차량 기준): 85€</p>
                         <p class="priceBtn">공항 픽업 및 샌딩 야간 할증(밴 일반 차량 기준): 105€</p>
-                        <p class="priceBtn">프리미엄 차량 신청시 10유로 추가</p>
+                        <p>★★바르셀로나 지역 옵션</p>
+                        <p class="priceBtn">한인 차량 픽업 & 샌딩 서비스: 47,5 €</p>
                     </div>
                 </div>
                 <img src="https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/06/24/AL5G/M3DkkHw9nS.jpg" class="intro_img"/>
@@ -44,7 +47,7 @@ const Special = () => {
                         <p>------------------------------준비중 ------------------------------</p>
                     </div>
                 </div>
-                <img src="https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/06/24/N2Cd/5PELSQxK52.jpg" class="intro_img"/>
+                <img src="https://cdn.gamma.app/mwicoyhynnxyvr3/generated-images/7aBGWgVjEKTEl7eNJ8LQ3.jpg" class="intro_img"/>
             </section>
             
             <section class="intro1">
@@ -57,7 +60,7 @@ const Special = () => {
                         <p class="priceBtn">스냅사진 2인: 115€</p>
                     </div>
                 </div>
-                <img src="https://dry7pvlp22cox.cloudfront.net/mrt-images-prod/2024/06/24/N2Cd/5PELSQxK52.jpg" class="intro_img"/>
+                <img src="https://cdn.gamma.app/mwicoyhynnxyvr3/generated-images/nRTQE25ELKTtHc7Fl0_Ut.jpg" class="intro_img"/>
             </section>
 
             <section class="intro1">
@@ -83,7 +86,7 @@ const Special = () => {
                         <p class="priceBtn">아빌라+세고비아: 200€</p>
                     </div>
                 </div>
-                <img src="https://d2ur7st6jjikze.cloudfront.net/offer_courses/51300/109870_original_1548401514.jpg?1548401514" class="intro_img"/>
+                <img src="https://cdn.gamma.app/mwicoyhynnxyvr3/generated-images/215PzVggRWM4Rij23Iy9m.jpg" class="intro_img"/>
             </section>
 
             <section class="intro1">
@@ -96,7 +99,7 @@ const Special = () => {
                         <p class="priceBtn">남부투어</p>
                     </div>
                 </div>
-                <img src="https://d2ur7st6jjikze.cloudfront.net/offer_courses/51300/109870_original_1548401514.jpg?1548401514" class="intro_img"/>
+                <img src="https://cdn.gamma.app/mwicoyhynnxyvr3/generated-images/jMl9i5BH6MjI1biLwwj_E.jpg" class="intro_img"/>
             </section>
 
             <section class="intro1">
